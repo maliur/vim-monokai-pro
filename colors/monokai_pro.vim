@@ -169,5 +169,6 @@ hi graphqlBraces ctermfg=246 ctermbg=NONE cterm=NONE guifg=#939293 guibg=NONE gu
 
 " go
 hi goParamName ctermfg=209 ctermbg=NONE cterm=NONE guifg=#fc9867 guibg=NONE gui=NONE
-hi goFunction ctermfg=116 ctermbg=NONE cterm=NONE guifg=#78dce8 guibg=NONE gui=NONE
-hi goFunctionCall ctermfg=150 ctermbg=NONE cterm=NONE guifg=#a9dc76 guibg=NONE gui=NONE
+hi goFunction ctermfg=116 ctermbg=NONE cterm=NONE guifg=#a9dc76 guibg=NONE gui=NONE
+hi goFunctionCall ctermfg=150 ctermbg=NONE cterm=NONE guifg=#78dce8 guibg=NONE gui=NONE
+hi goPointerOperator ctermfg=204 ctermbg=NONE cterm=NONE guifg=#ff6188 guibg=NONE gui=NONE
